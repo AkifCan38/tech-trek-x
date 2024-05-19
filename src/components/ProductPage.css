@@ -1,0 +1,30 @@
+.product-page {
+    text-align: center;
+    padding: 2rem;
+    color: rgba(243, 243, 243, 0.79);
+    font-family: 'Cookie', cursive;
+    font-size: 1.6rem;
+}
+
+.product-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.product-video {
+    width: 100%;
+    max-width: 600px;
+    margin: 2rem auto;
+    display: block;
+}
+.product-page h1 {
+    background: linear-gradient(to right, rgb(149, 144, 176), rgb(95, 117, 217));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.product-image {
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 3);
+}

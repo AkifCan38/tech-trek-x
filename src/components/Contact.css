@@ -1,0 +1,55 @@
+.contact {
+    max-width: 1000px;
+    margin: 4rem auto;
+    padding: 4rem;
+    border: 3px solid #ccc;
+    border-radius: 15px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 1);
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    background-blend-mode: overlay;
+}
+
+.contact h2 {
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.contact p {
+    font-size: 2rem;
+    margin: 2rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.3s ease;
+    color: white;
+}
+
+.icon {
+    margin-right: 3rem;
+    color: #007bff;
+    animation: bounce 1s infinite;
+    transition: transform 0.5s ease;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
+    }
+    40% {
+        transform: translateY(-10px);
+    }
+    60% {
+        transform: translateY(-5px);
+    }
+}
+
+.contact p:hover {
+    transform: scale(1.1);
+}
+
+.icon:hover {
+    transform: scale(1.2);
+}
