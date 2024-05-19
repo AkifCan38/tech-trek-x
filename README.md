@@ -40,5 +40,27 @@ https://tech-trek-x.vercel.app
 
 ## Some Screen Shots my page
 
-
-
+### App.js
+![Screenshot (68)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/677aa764-5bd0-404f-bf11-508161b06ad8)
+### App.css
+![Screenshot (69)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/db881126-0fda-46c7-a0d4-ddb435f83122)
+### ProductPage.js
+![Screenshot (70)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/6f87fb7b-3a2c-4985-8941-d3efd432ca03)
+### ProductPage.css
+![Screenshot (71)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/dc15324d-a773-4e4c-aa12-9614015564f7)
+### NewsFeed.js
+![Screenshot (72)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/8db701ba-35d1-4b67-b864-49634b5ee0cf)
+### NewsFeed.css
+![Screenshot (79)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/923a52b2-dd8e-4352-ba1f-96415cddf0ac)
+### Contact.js
+![Screenshot (74)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/8b45c1ce-70b8-4a4a-922e-44cc329077c8)
+### Contact.css
+![Screenshot (73)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/26760430-cfa3-410f-bdf4-a45f5f0938dc)
+### Navbar.js
+![Screenshot (76)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/23006ea6-b478-495e-a6a7-eb77f6a820c4)
+### Navbar.css
+![Screenshot (75)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/03800607-3bb2-443a-ab9c-8e385a484c3b)
+### OrderForm.js
+![Screenshot (78)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/61ca0df6-6e0d-4946-ae60-7c5a764cccfa)
+### OrderForm.css
+![Screenshot (77)](https://github.com/AkifCan38/tech-trek-x/assets/148538864/7784a7cc-7b32-4c96-bd03-ba4d58b20dec)
