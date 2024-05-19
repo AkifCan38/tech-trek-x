@@ -37,7 +37,7 @@ Company: TechTrack is a startup specializing in the development of tracking and 
 ## My Page
 https://tech-trek-x.vercel.app
 ## My Page Video
-
+https://github.com/AkifCan38/tech-trek-x/assets/148538864/e010279c-8fc7-4f24-b8c2-98d09a7c812c
 ## Some Screen Shots my page
 
 ### App.js
